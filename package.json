@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
   "dependencies": {
+    "mocha": "^5.0.0",
     "mongoose": "^5.0.4"
   }
 }
